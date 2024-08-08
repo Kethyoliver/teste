@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Cake shop",
+    "slug": "Cake shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/log_1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_mod.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C69286"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/log_1.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
